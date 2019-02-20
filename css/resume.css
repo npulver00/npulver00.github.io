@@ -93,6 +93,7 @@ p.lead {
   outline-color: teal;
 }
 
+
 @media (min-width: 992px) {
   #sideNav {
     text-align: center;
