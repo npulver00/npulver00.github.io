@@ -167,6 +167,9 @@ section.resume-section .resume-item .resume-date {
   section.resume-section .resume-item .resume-date {
     min-width: 18rem;
   }
+  .mb-5 img{
+    width: 100px;
+  }
 }
 
 @media (min-width: 992px) {
@@ -187,6 +190,7 @@ section.resume-section .resume-item .resume-date {
 a {
   color: teal;
 }
+
 
 a:hover, a:focus, a:active {
   color: rgb(35, 66, 66);
